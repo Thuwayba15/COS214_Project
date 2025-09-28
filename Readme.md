@@ -1,1 +1,26 @@
 
+---
+layout: default
+title: Test Page
+---
+
+# Snap Vision Test Page
+
+Hello! This is a **test page** to check Markdown rendering.
+
+## List Test
+- Item 1
+- Item 2
+- Item 3
+
+## Table Test
+
+| Name   | Role   |
+|--------|--------|
+| Alice  | Admin  |
+| Bob    | Editor |
+| Carol  | Viewer |
+
+---
+
+[Back to GitHub](https://github.com/COS301-SE-2025/Snap-Vision)
